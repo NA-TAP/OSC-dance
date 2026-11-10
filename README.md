@@ -16,3 +16,4 @@ They can suggest characters from the issues tab in our github. You will need an 
 ##### Yay subsubsubsubheadings for no reason, woohoo!
 ###### Yay subsubsubsubsubheadings for no reason, woohoo!
 
+# BIG NOTE: ASSETS ARE CC BY SA, WHILE CODE IS GPLV3
