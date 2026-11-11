@@ -1,0 +1,6 @@
+title: OSC-dance
+description: A disco room where object show characters dance.
+url: "https://na-tap.github.io"
+baseurl: "/OSC-dance"
+plugins:
+  - jekyll-sitemap
